@@ -23,6 +23,8 @@ const App = () => {
         <h1>User Information</h1>
         <div className="output">
           Name - {name}
+        </div>
+        <div className="output">
           Email -{email}
         </div>
     </div>
