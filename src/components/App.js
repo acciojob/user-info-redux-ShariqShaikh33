@@ -25,7 +25,7 @@ const App = () => {
           Name - {name}
         </div>
         <div className="output">
-          Email -{email}
+          Email - {email}
         </div>
     </div>
   )
