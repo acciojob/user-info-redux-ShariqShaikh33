@@ -22,8 +22,8 @@ const App = () => {
 
         <h1>User Information</h1>
         <div className="output">
-          <div>Name - {name}</div>
-          <div>Email -{email}</div>
+          Name - {name}
+          Email -{email}
         </div>
     </div>
   )
